@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Emmanuel Nzekwue
+# 👋 Hey there, I'm Emmanuel
 
 Welcome to my GitHub! I'm a **Business Analyst turned Data Scientist** with a background in **Information Science (B.Sc.)** and an **MBA in Data Analytics**. I specialize in **data storytelling**, **predictive modeling**, and **building tools that drive smarter decisions**.
 
