@@ -73,7 +73,7 @@ Here are a few hands-on projects where I blend business sense with data science:
 
 ## 🌐 Let’s Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/emmanuellapulga](https://www.linkedin.com/in/emmanuel-nzekwue-mba-600b86184/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/emmanuellapulga](https://www.linkedin.com/in/emmanuel-nzekwue-mba-600b86184/)])  
 - 📫 Email: emmanuelnzekwue@icloud.com  
 - 🌍 Based in Canada | Open to global remote roles  
 
